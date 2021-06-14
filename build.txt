@@ -1,0 +1,3 @@
+displayName = Flow's Yeezy Mod
+author = flowflimflum
+version = 0.1
